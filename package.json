@@ -1,5 +1,6 @@
 {
-  "name": "react-dropzone",
+  "name": "@ubergrape/react-dropzone",
+  "version": "3.8.0",
   "description": "Simple HTML5 drag-drop zone with React.js",
   "main": "dist/index.js",
   "scripts": {
